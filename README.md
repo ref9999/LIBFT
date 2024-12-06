@@ -7,6 +7,7 @@ Repository Structure :
 The repository is organized into the following sections:
 
 1. Mandatory Part - Libc Functions
+
 These functions replicate the functionality of standard library functions, covering areas like:
 
 ->Memory manipulation: ft_memset, ft_memcpy, ft_memmove, etc.
@@ -16,6 +17,7 @@ These functions replicate the functionality of standard library functions, cover
 ->Character checks and transformations: ft_isalpha, ft_tolower, etc.
 
 2. Additional Functions
+
 Functions that are not part of the standard library but are useful for various operations, such as:
 
 ->ft_substr - Extract a substring from a string.
@@ -25,6 +27,7 @@ Functions that are not part of the standard library but are useful for various o
 ->ft_itoa - Convert an integer to a string.
 
 3. Bonus Part - Linked List Functions
+
 Extra functions to manipulate singly linked lists (t_list):
 
 ->ft_lstnew - Create a new list node.
